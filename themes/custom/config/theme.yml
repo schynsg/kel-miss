@@ -1,0 +1,6 @@
+parent: classic
+name: custom
+display-name: Thème sur-mesure
+version: 1.0.0
+assets: 
+  use_parent_assets: true
