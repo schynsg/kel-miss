@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-04 15:09:05
+/* Smarty version 3.1.43, created on 2023-01-24 21:18:24
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63651d019fd012_48832047',
+  'unifunc' => 'content_63d03d10e4d655_55735284',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63651d019fd012_48832047 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63d03d10e4d655_55735284 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\wamp64\www\kelmiss-prestashop/themes/custom/modules/ps_imageslider/views/templates/hook/slider.tpl -->
 <?php if ($_smarty_tpl->tpl_vars['homeslider']->value['slides']) {?>
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['homeslider']->value['speed'], ENT_QUOTES, 'UTF-8');?>

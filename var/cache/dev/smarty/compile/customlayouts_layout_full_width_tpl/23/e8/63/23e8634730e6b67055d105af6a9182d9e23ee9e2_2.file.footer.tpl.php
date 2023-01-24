@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-04 17:09:30
+/* Smarty version 3.1.43, created on 2023-01-24 21:18:25
   from 'C:\wamp64\www\kelmiss-prestashop\themes\custom\templates\_partials\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6365393a353874_63287086',
+  'unifunc' => 'content_63d03d11afeeb7_29338731',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,38 +20,38 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6365393a353874_63287086 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63d03d11afeeb7_29338731 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_19674234606365393a312eb3_59559716', 'hook_footer_before');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_156665327563d03d11af1d88_01211923', 'hook_footer_before');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3281634226365393a317112_38839768', 'hook_footer');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_38134488263d03d11af3bf7_63307136', 'hook_footer');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20459446916365393a344c65_55255547', 'hook_footer_after');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_84026134563d03d11afbd88_47456455', 'hook_footer_after');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_4093349166365393a34daa7_50754225', 'copyright_link');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_172404217563d03d11afd9d1_58499082', 'copyright_link');
 $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'parent:_partials/footer.tpl');
 }
 /* {block 'hook_footer_before'} */
-class Block_19674234606365393a312eb3_59559716 extends Smarty_Internal_Block
+class Block_156665327563d03d11af1d88_01211923 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer_before' => 
   array (
-    0 => 'Block_19674234606365393a312eb3_59559716',
+    0 => 'Block_156665327563d03d11af1d88_01211923',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -62,12 +62,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_footer_before'} */
 /* {block 'hook_footer'} */
-class Block_3281634226365393a317112_38839768 extends Smarty_Internal_Block
+class Block_38134488263d03d11af3bf7_63307136 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer' => 
   array (
-    0 => 'Block_3281634226365393a317112_38839768',
+    0 => 'Block_38134488263d03d11af3bf7_63307136',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -118,12 +118,12 @@ mail.svg" alt="Mail" height="40" width="40">
 }
 /* {/block 'hook_footer'} */
 /* {block 'hook_footer_after'} */
-class Block_20459446916365393a344c65_55255547 extends Smarty_Internal_Block
+class Block_84026134563d03d11afbd88_47456455 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_footer_after' => 
   array (
-    0 => 'Block_20459446916365393a344c65_55255547',
+    0 => 'Block_84026134563d03d11afbd88_47456455',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -134,12 +134,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'hook_footer_after'} */
 /* {block 'copyright_link'} */
-class Block_4093349166365393a34daa7_50754225 extends Smarty_Internal_Block
+class Block_172404217563d03d11afd9d1_58499082 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'copyright_link' => 
   array (
-    0 => 'Block_4093349166365393a34daa7_50754225',
+    0 => 'Block_172404217563d03d11afd9d1_58499082',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

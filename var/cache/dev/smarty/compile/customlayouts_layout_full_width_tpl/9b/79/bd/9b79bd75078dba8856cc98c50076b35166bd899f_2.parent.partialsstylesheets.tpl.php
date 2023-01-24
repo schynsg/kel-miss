@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-11-28 21:06:15
+/* Smarty version 3.1.43, created on 2023-01-24 21:18:25
   from 'parent:partialsstylesheets.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_638514b7478a72_85626125',
+  'unifunc' => 'content_63d03d1166b855_73229711',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_638514b7478a72_85626125 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63d03d1166b855_73229711 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\wamp64\www\kelmiss-prestashop/themes/classic/templates/_partials/stylesheets.tpl --><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['stylesheets']->value['external'], 'stylesheet');
 $_smarty_tpl->tpl_vars['stylesheet']->do_else = true;
