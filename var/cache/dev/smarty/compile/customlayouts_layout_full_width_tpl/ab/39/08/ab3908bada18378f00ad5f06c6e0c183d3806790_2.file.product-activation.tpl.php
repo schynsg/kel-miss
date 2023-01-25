@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2023-01-24 21:18:25
+/* Smarty version 3.1.43, created on 2023-01-25 22:07:39
   from 'C:\wamp64\www\kelmiss-prestashop\themes\classic\templates\catalog\_partials\product-activation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63d03d116eadf9_47718098',
+  'unifunc' => 'content_63d19a1bdc3c22_37393535',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63d03d116eadf9_47718098 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63d19a1bdc3c22_37393535 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['page']->value['admin_notifications']) {?>
   <div class="alert alert-warning row" role="alert">
     <div class="container">

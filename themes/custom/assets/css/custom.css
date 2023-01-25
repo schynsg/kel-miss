@@ -88,6 +88,40 @@ h1, h2, h3, .h1, .h2, .h3{
     vertical-align: middle;
 }
 
+#_desktop_cart>div{
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    background-color: #C57982;
+    padding: 8px 15px;
+    position: relative;
+}
+
+#_desktop_cart .inactive{
+    opacity: 0.4;
+}
+
+#_desktop_cart .material-icons{
+    width: 17px;
+    height: 17px;
+    font-size: 17px;
+    margin-right: 2px;
+}
+
+#_desktop_cart .cart-products-count{
+    position: absolute;
+    background-color: #C57982;
+    color: white;
+    border-radius: 50px;
+    border: 2px solid white;
+    top: -14px;
+    left: 125px;
+    padding: 6px 9px;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+}
+
 .header_menu{
     display: flex;
     justify-content: center;
@@ -113,6 +147,10 @@ h1, h2, h3, .h1, .h2, .h3{
 #header .top-menu a[data-depth="0"]:hover{
     text-decoration: none;
     color: #C57982;
+}
+
+.user-info .material-icons{
+    display: none;
 }
 
 #wrapper{

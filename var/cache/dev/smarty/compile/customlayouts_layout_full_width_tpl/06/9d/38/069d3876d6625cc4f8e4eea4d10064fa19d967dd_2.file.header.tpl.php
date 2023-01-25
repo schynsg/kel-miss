@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2023-01-24 21:18:25
+/* Smarty version 3.1.43, created on 2023-01-25 22:07:39
   from 'C:\wamp64\www\kelmiss-prestashop\themes\custom\templates\_partials\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63d03d11719cf7_37002544',
+  'unifunc' => 'content_63d19a1be3a1e4_47604539',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,28 +20,28 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63d03d11719cf7_37002544 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63d19a1be3a1e4_47604539 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_20820985563d03d11700cf6_82555633', 'header_nav');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_110423246763d19a1bdfa7a9_65610866', 'header_nav');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_85930052663d03d11715be2_60358956', 'header_top');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_24728999763d19a1be2f176_95605128', 'header_top');
 $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'parent:_partials/header.tpl');
 }
 /* {block 'header_nav'} */
-class Block_20820985563d03d11700cf6_82555633 extends Smarty_Internal_Block
+class Block_110423246763d19a1bdfa7a9_65610866 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'header_nav' => 
   array (
-    0 => 'Block_20820985563d03d11700cf6_82555633',
+    0 => 'Block_110423246763d19a1bdfa7a9_65610866',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -75,12 +75,12 @@ kelmiss-logo.svg" alt="Kel'miss beauty and fashion" width="370" height="120" ite
 }
 /* {/block 'header_nav'} */
 /* {block 'header_top'} */
-class Block_85930052663d03d11715be2_60358956 extends Smarty_Internal_Block
+class Block_24728999763d19a1be2f176_95605128 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'header_top' => 
   array (
-    0 => 'Block_85930052663d03d11715be2_60358956',
+    0 => 'Block_24728999763d19a1be2f176_95605128',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
