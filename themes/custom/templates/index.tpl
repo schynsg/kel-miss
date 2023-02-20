@@ -7,25 +7,25 @@
         <ul>
             <li>
                 <div>
-                    <img src="{$urls.img_url}returns.svg" alt="Retours" height="120" width="150">
+                    <!--<img src="{$urls.img_url}returns.svg" alt="Retours" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Retours</span> sous 10 jours</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="{$urls.img_url}delivery.svg" alt="Livraisons" height="120" width="150">
+                   <!--<img src="{$urls.img_url}delivery.svg" alt="Livraisons" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Livraisons</span> par Bpost</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="{$urls.img_url}drive-in.svg" alt="Retraits" height="120" width="150">
+                    <!--<img src="{$urls.img_url}drive-in.svg" alt="Retraits" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Retraits</span> en magasin</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="{$urls.img_url}secure.svg" alt="Paiements sécurisés" height="120" width="150">
+                    <!--<img src="{$urls.img_url}secure.svg" alt="Paiements sécurisés" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Paiements</span> sécurisés</h3>
                 </div>
             </li>

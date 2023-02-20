@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2023-01-25 22:07:39
+/* Smarty version 3.1.43, created on 2023-02-20 22:03:19
   from 'C:\wamp64\www\kelmiss-prestashop\themes\custom\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63d19a1b25ad72_55609065',
+  'unifunc' => 'content_63f3e017686195_82302655',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd3fac0d014532439434731fed062c1274097f018' => 
     array (
       0 => 'C:\\wamp64\\www\\kelmiss-prestashop\\themes\\custom\\templates\\index.tpl',
-      1 => 1674508673,
+      1 => 1676926984,
       2 => 'file',
     ),
   ),
@@ -20,23 +20,23 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63d19a1b25ad72_55609065 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63f3e017686195_82302655 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_80572327763d19a1b241c61_24525546', 'hook_home');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_145921247863f3e01765b854_17028104', 'hook_home');
 $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'parent:index.tpl');
 }
 /* {block 'hook_home'} */
-class Block_80572327763d19a1b241c61_24525546 extends Smarty_Internal_Block
+class Block_145921247863f3e01765b854_17028104 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'hook_home' => 
   array (
-    0 => 'Block_80572327763d19a1b241c61_24525546',
+    0 => 'Block_145921247863f3e01765b854_17028104',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -49,29 +49,29 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
         <ul>
             <li>
                 <div>
-                    <img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
-returns.svg" alt="Retours" height="120" width="150">
+                    <!--<img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
+returns.svg" alt="Retours" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Retours</span> sous 10 jours</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
-delivery.svg" alt="Livraisons" height="120" width="150">
+                   <!--<img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
+delivery.svg" alt="Livraisons" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Livraisons</span> par Bpost</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
-drive-in.svg" alt="Retraits" height="120" width="150">
+                    <!--<img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
+drive-in.svg" alt="Retraits" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Retraits</span> en magasin</h3>
                 </div>
             </li>
             <li>
                 <div>
-                    <img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
-secure.svg" alt="Paiements sécurisés" height="120" width="150">
+                    <!--<img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
+secure.svg" alt="Paiements sécurisés" height="120" width="150">-->
                     <h3 class="color"><span class="h3_title">Paiements</span> sécurisés</h3>
                 </div>
             </li>
